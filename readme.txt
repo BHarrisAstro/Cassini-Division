@@ -10,6 +10,12 @@ This Program uses ordinary differential equations (ODEs) to simulate the evoluti
 
 The program initializes the system with nParticles number of ring particles randomly placed within a ring surrounding Saturn. The radius of the ring is defined by the innermost bounds of the B ring and the outermost bounds of the A ring. Mimas is positioned outside of the ring system.
 
+Links: 
+-Youtube videos of my original animations (from Version 1.0) can be found on the "COSIPS: Computer Simulations in Planetary Science" YouTube channel. 
+  > youtube.com/watch?v=pNShC5iLG18
+  > youtube.com/watch?v=an6R5dO6Xmg
+  > youtube.com/watch?v=6yPayqetpvU
+
 Changes:
 -Added a new cell that animates a bar plot of density by ring region (A ring, B ring, and the Cassini Division), providing a quantitative measure of change over time.
 
