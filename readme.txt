@@ -15,3 +15,7 @@ Changes:
 
 Known Issues:
 -If ring radii are changed from default, real world values, the bar plot will not display the resultant gap's density, and will instead just display the density in the region of the real world division. Must manually adjust values to find where orbital resonance will create a gap. 
+
+Acknowledgements:
+-I want to thank Jizhou Wu, who's assistance was invaluable throughout the process of debugging and optimizing this project. 
+-I also wish to thank Professor Militzer, who taught EPS 109.  
